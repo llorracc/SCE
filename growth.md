@@ -21,6 +21,18 @@ here are some of the things we could do with that money
   - Mentors might be more plentiful if they were paid
 
 ## Paying Tutorial Speakers
+- I'd propose that we have a minimum of 3 tutorials
+- Maybe start in the afternoon of the 7th
+- If we made the tutorials 2.5 hours, we could have a shedule like this:
+
+| Time         | Activity |
+|:-------------|:---------|
+| 09:00-11:30  | Tutorial |
+| 11:30-12:30  | Lunch    |
+| 12:30-15:00  | Tutorial |
+| 15:00-17:30  | Tutorial |
+
+and we could have one or two tutorials on the prior day.
 
 - We could have a category of "marquee" tutorial speakers
   - Jesus FV
@@ -32,7 +44,7 @@ here are some of the things we could do with that money
     - it would not be hard to identify these
 	  - there is a wealth of such tutorials at SciPy etc
 	  
-## The tutorials could have a fee 
+## The tutorials could have a more substantial fee than \$25
 
-- PhD students maybe pay half price
+- PhD students maybe pay half price (or free)
   - with the society making up the difference
