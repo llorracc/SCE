@@ -43,7 +43,11 @@ and we could have one or two tutorials on the prior day.
 	- tensorflow
     - it would not be hard to identify these
 	  - there is a wealth of such tutorials at SciPy etc
-	  
+
+If we can think of topics where it is very unlikely that someone might want to take both of them, we could even schedule multiple tutorials at the same time. 
+
+
+
 ## The tutorials could have a more substantial fee than \$25
 
 - PhD students maybe pay half price (or free)
