@@ -10,8 +10,9 @@ here are some of the things we could do with that money
 - We could increase the number of student prizes:
   - Best replication of an existing paper
 	- Or best demonstration of nonreplicability!
-  - Best use of tools new to economics
+  - Best unusual compuational tools 
 - Am sure we can think of more such
+- Volunteer:
 
 ## Connecting Attendees with Mentors
 
@@ -24,6 +25,7 @@ here are some of the things we could do with that money
 - We could have a category of "marquee" tutorial speakers
   - Jesus FV
   - Ludwig Straub or part of that gang
+	- Adrian Auclert is a tentative yes
   - Presenters for toolkits:
 	- pytorch
 	- tensorflow
@@ -34,4 +36,3 @@ here are some of the things we could do with that money
 
 - PhD students maybe pay half price
   - with the society making up the difference
-  

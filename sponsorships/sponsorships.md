@@ -1,7 +1,5 @@
 # Corporate or other sponsors
 
-
-
 Many other conferences are partly funded by contributions from corporations
 (e.g., Stata helps fund the [International Association of Applied Economics](https://easyconferences.eu/iaae2024/).
 
